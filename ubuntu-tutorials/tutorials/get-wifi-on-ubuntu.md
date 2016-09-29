@@ -6,7 +6,7 @@ Thời gian: Ngày 28 tháng 09 năm 2016
 
 ## Tài liệu tham khảo
 
-	[Get your Wifi working on Ubuntu 14.04](https://www.youtube.com/watch?v=4VVosf9p5GM)
+[Get your Wifi working on Ubuntu 14.04](https://www.youtube.com/watch?v=4VVosf9p5GM)
 
 ## Đặt vấn đề
 
