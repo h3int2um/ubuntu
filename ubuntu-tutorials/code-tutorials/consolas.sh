@@ -1,4 +1,5 @@
 #!/bin/sh
+# Nguon tham khao: http://ssup2.iptime.org/wiki/Ubuntu_Consolas_Font_Install
 set -e
 set -x
 mkdir temp
